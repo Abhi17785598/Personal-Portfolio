@@ -18,7 +18,8 @@ This is a fully responsive personal portfolio website built with modern web tech
 - **Hosting**: GitHub Pages / Netlify /
 ## 📸 Project Preview
 
-![Portfolio Screenshot](/Personal-Portfolio/blob/main/dist/Screenshot%20(320).png)
+![Portfolio Screenshot](https://github.com/Abhi17785598/Personal-Portfolio/blob/main/dist/Screenshot%20(320).png?raw=true)
+
 
 
 
