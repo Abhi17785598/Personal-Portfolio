@@ -19,6 +19,8 @@ This is a fully responsive personal portfolio website built with modern web tech
 ## 📸 Project Preview
 
 ![Portfolio Screenshot](https://github.com/Abhi17785598/Personal-Portfolio/blob/main/dist/Screenshot%20(320).png?raw=true)
+![Portfolio Screenshot](https://github.com/Abhi17785598/Personal-Portfolio/blob/main/dist/Screenshot%20(321).png?raw=true)
+![Portfolio Screenshot](https://github.com/Abhi17785598/Personal-Portfolio/blob/main/dist/Screenshot%20(322).png?raw=true)
 
 
 
